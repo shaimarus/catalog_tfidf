@@ -6,6 +6,6 @@ For run service you need just run: <br/>
 And then service will be available at <br/>
 http://localhost:5015/ <br/>
 
-![Image alt](https://github.com/shaimarus/catalog_simple/blob/main/pict_tfidf_ru.png)
-![Image alt](https://github.com/shaimarus/catalog_simple/blob/main/pict_tfidf_kk.png)
-![Image alt](https://github.com/shaimarus/catalog_simple/blob/main/pict_tfidf_en.png)
+![Image alt](https://github.com/shaimarus/catalog_simple/blob/main/pict_tfidf_ru.jpg)
+![Image alt](https://github.com/shaimarus/catalog_simple/blob/main/pict_tfidf_kk.jpg)
+![Image alt](https://github.com/shaimarus/catalog_simple/blob/main/pict_tfidf_en.jpg)
